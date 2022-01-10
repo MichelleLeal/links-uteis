@@ -20,10 +20,11 @@ Lista de links uteis para desenvolvimento front-end que estou descobrindo aos po
 [Fontes](https://fonts.google.com/)
 
 ## Inspiração
-[Dribbble]https://dribbble.com/
+[Dribbble](https://dribbble.com/)
+
 [Css zen garden](http://www.csszengarden.com/214/)
 
-Extra:
+Extra:<br>
 [Artigo (em inglês)](https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2) 
 
 
@@ -32,12 +33,14 @@ Extra:
 
 [Gerador de grid online](https://grid.layoutit.com/)
 
-Extras:
+Extras:<br>
 [Jogo para praticar flexbox](http://flexboxfroggy.com/)
+
 [Jogo para praticar layout grid](https://codepip.com/games/grid-garden/)
 
 
 ## Wireframes
 
 [Figma](https://www.figma.com)
+
 [Canva](https://www.canva.com/) 
